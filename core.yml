@@ -1,0 +1,5 @@
+server:
+    env: testing
+    port: 8080
+    # gin运行模式 debug release test
+    ginMode: debug
